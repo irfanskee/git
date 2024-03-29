@@ -1,0 +1,3 @@
+data.txt
+ignor/*
+!ignor/text.txt
